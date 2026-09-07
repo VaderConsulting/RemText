@@ -1,6 +1,6 @@
 # RemText
 
-VB6 working copy of `RemText` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: Remove Text. Output: `RemText.exe`. `VersionCompanyName`: Freelance.
+Freelance VB6 Remove Text (`RemText.exe`) that takes a search pattern and filename on the command line and deletes matching lines from the file (supports `Like` wildcards such as `*blah*`). Open `RemText.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
